@@ -121,9 +121,9 @@ For that purpose, you will make a project to pick a cube from the table with a 2
 |:----------------------------:|:--------------------------------------:|
 | *a) VScode*                 | *b) roboDK Pick cube*                 |
 
-**Activity Student 2:** Name?
+**Activity Student 2:** Sara Lozano Brito
 
-| ![](./Images/code.png) | ![](./Images/pick.png) |
+| ![](./Images/sync_sara.png) | ![](./Images/pick_sara.png) |
 |:----------------------------:|:--------------------------------------:|
 | *a) VScode*                 | *b) roboDK Pick cube*                 |
 
